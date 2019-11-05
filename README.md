@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CI/CD with Netlify https://fc453b.netlify.com/
+
+### Author
+smerle https://github.com/Stephanie-Merle
 
 ## Available Scripts
 
